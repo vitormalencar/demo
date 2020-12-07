@@ -2,7 +2,7 @@
   "users": [
     {
       "login": "vitormalencar",
-      "id": 7741167,
+      "id": "vitormalencar",
       "node_id": "MDQ6VXNlcjc3NDExNjc=",
       "avatar_url": "https://avatars2.githubusercontent.com/u/7741167?v=4",
       "gravatar_id": "",
@@ -36,7 +36,7 @@
     },
     {
       "login": "cjpatoilo",
-      "id": 1542831,
+      "id": "cjpatoilo",
       "node_id": "MDQ6VXNlcjE1NDI4MzE=",
       "avatar_url": "https://avatars3.githubusercontent.com/u/1542831?v=4",
       "gravatar_id": "",
@@ -70,7 +70,7 @@
     },
     {
       "login": "gurgelrenan",
-      "id": 691159,
+      "id": "gurgelrenan",
       "node_id": "MDQ6VXNlcjY5MTE1OQ==",
       "avatar_url": "https://avatars3.githubusercontent.com/u/691159?v=4",
       "gravatar_id": "",
